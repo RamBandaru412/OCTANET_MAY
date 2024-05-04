@@ -1,0 +1,41 @@
+body 
+{ 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+}
+.h {
+    text-shadow: 2px 2px 4px #ffffff;
+}
+.nav {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.nav a{
+    text-decoration: none;
+}
+  .header { 
+    background-image: url(https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/375770fc-3ed6-44d3-9efa-d6980499306a/v2-8da8h-hicmo.jpg);
+    padding: 50px; 
+    text-align: center;
+    color: rgb(4, 4, 52);
+}
+  .welcome { 
+    padding: 20px; 
+    text-align: center; 
+}
+  .footer 
+  { 
+    background-color: #333; 
+    color: white; 
+    padding: 10px 0; 
+    text-align: center;
+ }
+ .main {
+    margin-left: 50px;
+    margin-left: 50px;
+    background-image: url();
+ }
+ .row {
+    justify-content: space-around;
+ }
